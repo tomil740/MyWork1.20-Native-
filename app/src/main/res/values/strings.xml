@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyWork1.20</string>
+    
+    <string name="week_sum_average_text">The average is : </string>
+    <string name="week_sum_target_text">Your Goal Is : </string>
+    <string name="workTimeUnit">Hour</string>
+
+
+    //acessablity and testing strings!
+    <string name="floatingAddBut">Add</string>
+    <string name="dateEditField">DateEditField</string>
+    <string name="workTimeEditField">WorkTimeEditField</string>
+    <string name="subMitDeclareBut">SubMitDeclareBut</string>
+    <string name="errorField">ErrorField</string>
+</resources>
