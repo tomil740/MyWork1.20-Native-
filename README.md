@@ -30,9 +30,24 @@ My app solves exactly that we will get an full image of our time efficiencyby cl
 
 <h1>Under the hood :</h1>
 My work 1.20 version is build with :
-* MVVM and clean architecture build patterns 
-* According to the repository pattern 
-* digger hill for dependency injection 
-* Room data base
-* Compose UI and material 3 component’s
-* Canvas and animatable for our UI interactive components 
+<br>
+<lm>
+  <ol>
+     MVVM and clean architecture build patterns 
+  </ol>
+   <ol>
+    According to the repository pattern 
+  </ol>
+   <ol>
+    Canvas and animatable for our UI interactive components 
+  </ol>
+   <ol>
+     Room data base
+  </ol>
+   <ol>
+     Compose UI and material 3 component’s
+  </ol>
+   <ol>
+     digger hill for dependency injection 
+  </ol>
+</lm>
