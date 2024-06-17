@@ -5,6 +5,8 @@
 The app build with compose UI and material 3 components , with simple and clear preps intentions , the app is very simple to understand and let the user by seconds get the exact image of his time management on the spot …
 </p>
 <img src="https://github.com/tomil740/DeliveryGuyAnalyzer/assets/126959122/705c8ebd-1849-45a7-88f1-1121c52aa85b" width="170" >
+<br>
+To the KMP version(in build) : https://github.com/tomil740/MyWork122
 
 <h1>How to use :</h1>
 <img alt="mainUsecase1" src="https://github.com/tomil740/MyWork122/assets/126959122/7a026b6b-112a-4a04-b4bf-d40bce08911e" width=45% height=85%>
